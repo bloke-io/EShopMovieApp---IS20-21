@@ -1,0 +1,12 @@
+C:\Users\Vlado\Desktop\интегрирани системи\EShopMovieApp\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.deps.json
+C:\Users\Vlado\Desktop\интегрирани системи\EShopMovieApp\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\Vlado\Desktop\интегрирани системи\EShopMovieApp\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.pdb
+C:\Users\Vlado\Desktop\интегрирани системи\EShopMovieApp\EShop.Repository\bin\Debug\netcoreapp3.1\Eshop.Domain.dll
+C:\Users\Vlado\Desktop\интегрирани системи\EShopMovieApp\EShop.Repository\bin\Debug\netcoreapp3.1\Eshop.Domain.pdb
+C:\Users\Vlado\Desktop\интегрирани системи\EShopMovieApp\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.AssemblyReference.cache
+C:\Users\Vlado\Desktop\интегрирани системи\EShopMovieApp\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfoInputs.cache
+C:\Users\Vlado\Desktop\интегрирани системи\EShopMovieApp\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfo.cs
+C:\Users\Vlado\Desktop\интегрирани системи\EShopMovieApp\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Vlado\Desktop\интегрирани системи\EShopMovieApp\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CopyComplete
+C:\Users\Vlado\Desktop\интегрирани системи\EShopMovieApp\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\Vlado\Desktop\интегрирани системи\EShopMovieApp\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.pdb
